@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    text-align: right;
+}
+img {
+    width: 25%;
+    float:right;
+
+}
+h2 {
+    color:green;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: navy;
+    color: white;
+}
+.name {
+    font-weight: bolder;
+    text-decoration:dashed;
+    color: rgb(173, 216, 230);
+
+}
+.insert {
+    font-style:oblique;
+    color:darkgoldenrod
+}
+h5 {
+    text-align: center;
+}
